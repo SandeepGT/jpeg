@@ -1,3 +1,3 @@
 # jpeg
 
-This is just for fun not real repo
+This image matrix to view image as text
